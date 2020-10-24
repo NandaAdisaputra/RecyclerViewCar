@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecyclerViewCar</string>
+    <string name="image_toyota">image toyota</string>
+    <string-array name="name_car">
+        <item>Alphard</item>
+        <item>Fortuner</item>
+        <item>Luxio</item>
+        <item>Pajero</item>
+        <item>Sport</item>
+        <item>Suzuki</item>
+        <item>Tesla</item>
+        <item>Toyota</item>
+        <item>Xpander</item>
+    </string-array>
+    <array name="image_car">
+        <item>@drawable/alphard</item>
+        <item>@drawable/fortuner</item>
+        <item>@drawable/luxio</item>
+        <item>@drawable/pajero</item>
+        <item>@drawable/sport</item>
+        <item>@drawable/suzuki</item>
+        <item>@drawable/tesla</item>
+        <item>@drawable/toyota</item>
+        <item>@drawable/xpander</item>
+
+    </array>
+</resources>
